@@ -1,0 +1,14 @@
+{"posts":[
+            {
+                "headline":"Android Goes To School",
+                "body":"Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+                "posted_on":"Feb 11, 2013",
+                "posted_by":"username"
+            },
+            {
+                "headline":"The Headline for post 2",
+                "body":"Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+                "posted_on":"Feb 12, 2013",
+                "posted_by":"anotheruser"
+            }
+]}
