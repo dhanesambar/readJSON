@@ -1,14 +1,14 @@
-{"posts":[
+[
             {
-                "headline":"Android Goes To School",
-                "body":"Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+                "headlines":"Best Android Tablets For Students",
+                "Body":"Some kind of tablet is must-have for the school year...",
                 "posted_on":"Feb 11, 2013",
-                "posted_by":"username"
+                "posted_by":"Mark Zukerberck"
             },
             {
-                "headline":"The Headline for post 2",
-                "body":"Lorem ipsum dolor sit amet consectetur adipiscing elit.",
+                "headlines":"Evernote - Original Cloud-based Note Apps",
+                "Body":"Evernote can handles all type of media in its note, including type, drawn, audio, photos...",
                 "posted_on":"Feb 12, 2013",
-                "posted_by":"anotheruser"
+                "posted_by":"Steve Jobs"
             }
-]}
+]
